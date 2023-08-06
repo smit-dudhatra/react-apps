@@ -37,8 +37,7 @@ function App() {
 
   return (
     <div>
-      <NewExpense onSaveExpense={(data) => saveExpense(data)}/>
-      <ExpenseList expenses={expenses} />
+      <h1>Hello</h1>
     </div>
   );
 }
