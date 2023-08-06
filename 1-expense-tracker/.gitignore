@@ -1,0 +1,11 @@
+*.gz
+*.zip
+*.bak
+*.orig
+*.buildpath
+.settings/
+.project
+*.project
+.vscode/
+
+/node_modules
